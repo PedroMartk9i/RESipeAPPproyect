@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ResipeApp</string>
+    <string name="error_validacion">Digite un valor</string>
+    <string name="btn_newreceta">Agregar Nueva Receta</string>
+    <string name="et_nomreceta">Nombre de la receta</string>
+    <string name="et_descripcion">Descripción</string>
+    <string name="et_ingredientes">Ingredientes</string>
+    <string name="et_preparacion">Preparación</string>
+    <string name="et_url">Url Imagen</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_contraseña">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="msg_error">hhjgjhgghj</string>
+    <string name="close_sesion">Cerrar Sesion</string>
+    <string name="et_nombreuser">Nombre Completo</string>
+    <string name="et_usuario">Email</string>
+    <string name="et_password">Contraseña</string>
+    <string name="btn_registrarse">Registrar</string>
+</resources>
